@@ -64,4 +64,5 @@ project-root/
 - OAuth integration (Google, GitHub, etc.)
 
 ##  Author
-Developed as part of backend learning and practice in building secure and scalable systems.
+Backend Developer | Node.js Enthusiast  
+GitHub: https://github.com/yousabgamal
